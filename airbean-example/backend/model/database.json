@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "username": "Ada",
+      "password": "pwd123",
+      "id": "hFGlJMzZTKbBuPJYTAsJH",
+      "orders": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        },
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ]
+    },
+    {
+      "username": "Chris",
+      "password": "pwd123",
+      "id": "_DW-mZnKlSyhlILuRn-YY",
+      "orders": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ]
+    }
+  ]
+}
